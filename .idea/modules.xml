@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Relationships/Relationships.iml" filepath="$PROJECT_DIR$/Relationships/Relationships.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hibernate-01/hibernate-01.iml" filepath="$PROJECT_DIR$/hibernate-01/hibernate-01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hibernate-02/hibernate-02.iml" filepath="$PROJECT_DIR$/hibernate-02/hibernate-02.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hibernate-03/hibernate-03.iml" filepath="$PROJECT_DIR$/hibernate-03/hibernate-03.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hibernate-relationships/hibernate-relationships.iml" filepath="$PROJECT_DIR$/hibernate-relationships/hibernate-relationships.iml" />
+    </modules>
+  </component>
+</project>
